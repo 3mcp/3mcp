@@ -2,8 +2,8 @@
 
 <br>
 <div>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=3mcp&show_icons=true&theme=dracula">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mcp&hide_progress=true&theme=dracula">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=3mcp&show_icons=true&theme=nightowl">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mcp&hide_progress=true&theme=nightowl">
 </div>
 <br>
 <div style="display: inline_block">
